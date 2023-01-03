@@ -8,7 +8,7 @@
 
 <div class="layout">
   <nav>
-    <h1>sveltetype</h1>
+    <h1>👨‍💻 SvelteType</h1>
   </nav>
   <main>
     <slot />
